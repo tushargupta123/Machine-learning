@@ -1,0 +1,25 @@
+[2023-07-02 10:57:34,622] 187 werkzeug -WARNING  * Debugger is active!
+[2023-07-02 10:57:34,636] 187 werkzeug -INFO  * Debugger PIN: 133-634-790
+[2023-07-02 10:57:39,950] 187 werkzeug -INFO 127.0.0.1 - - [02/Jul/2023 10:57:39] "GET / HTTP/1.1" 200 -
+[2023-07-02 10:57:40,243] 187 werkzeug -INFO 127.0.0.1 - - [02/Jul/2023 10:57:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-07-02 10:57:48,767] 187 werkzeug -INFO 127.0.0.1 - - [02/Jul/2023 10:57:48] "GET / HTTP/1.1" 200 -
+[2023-07-02 10:57:53,090] 187 werkzeug -INFO 127.0.0.1 - - [02/Jul/2023 10:57:53] "GET / HTTP/1.1" 200 -
+[2023-07-02 10:57:53,352] 187 werkzeug -INFO 127.0.0.1 - - [02/Jul/2023 10:57:53] "GET / HTTP/1.1" 200 -
+[2023-07-02 10:58:27,463] 187 werkzeug -INFO 127.0.0.1 - - [02/Jul/2023 10:58:27] "GET / HTTP/1.1" 200 -
+[2023-07-02 10:58:27,661] 187 werkzeug -INFO 127.0.0.1 - - [02/Jul/2023 10:58:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-07-02 10:58:50,290] 187 werkzeug -INFO 127.0.0.1 - - [02/Jul/2023 10:58:50] "GET / HTTP/1.1" 200 -
+[2023-07-02 10:58:52,035] 187 werkzeug -INFO 127.0.0.1 - - [02/Jul/2023 10:58:52] "GET / HTTP/1.1" 200 -
+[2023-07-02 10:58:52,212] 187 werkzeug -INFO 127.0.0.1 - - [02/Jul/2023 10:58:52] "GET / HTTP/1.1" 200 -
+[2023-07-02 10:58:52,380] 187 werkzeug -INFO 127.0.0.1 - - [02/Jul/2023 10:58:52] "GET / HTTP/1.1" 200 -
+[2023-07-02 10:59:12,204] 187 werkzeug -INFO 127.0.0.1 - - [02/Jul/2023 10:59:12] "GET / HTTP/1.1" 200 -
+[2023-07-02 10:59:12,254] 187 werkzeug -INFO 127.0.0.1 - - [02/Jul/2023 10:59:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-07-02 11:03:06,477] 187 werkzeug -INFO 127.0.0.1 - - [02/Jul/2023 11:03:06] "GET / HTTP/1.1" 200 -
+[2023-07-02 11:04:48,975] 187 werkzeug -INFO 127.0.0.1 - - [02/Jul/2023 11:04:48] "GET /predict HTTP/1.1" 200 -
+[2023-07-02 11:06:30,422] 67 root -INFO Dataframe Gathered
+[2023-07-02 11:06:30,422] 28 root -INFO Exception occured in prediction
+[2023-07-02 11:06:30,448] 187 werkzeug -INFO 127.0.0.1 - - [02/Jul/2023 11:06:30] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2023-07-02 11:06:30,676] 187 werkzeug -INFO 127.0.0.1 - - [02/Jul/2023 11:06:30] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2023-07-02 11:06:30,819] 187 werkzeug -INFO 127.0.0.1 - - [02/Jul/2023 11:06:30] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2023-07-02 11:06:30,861] 187 werkzeug -INFO 127.0.0.1 - - [02/Jul/2023 11:06:30] "GET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2023-07-02 11:06:31,186] 187 werkzeug -INFO 127.0.0.1 - - [02/Jul/2023 11:06:31] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-07-02 11:07:27,079] 187 werkzeug -INFO  * Detected change in 'c:\\users\\sunny\\mlbootcampproject\\mlbootcampproject\\src\\utils.py', reloading

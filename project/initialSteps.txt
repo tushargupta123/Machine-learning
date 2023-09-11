@@ -1,5 +1,0 @@
-For creating python enviornment in the system
----> conda create -p env python=3.8 -y
-
-For activating env
----> conda activate src
